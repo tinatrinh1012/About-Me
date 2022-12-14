@@ -4,7 +4,7 @@ Throughout my time at University of St. Thomas (2019-2023) as a Computer Science
 
 The [Personal Website Project](https://github.com/tinatrinh1012/tinatrinh1012.github.io) was a class project, where we learned to build and style static website using basic HTML and Foundation CSS Framework. The website is hosted on Github and is responsive to different screen sizes. I spent some extra time to give the website a decent design and use it as my official personal website for career purposes. Check out the website at [tinatrinh1012.github.io](https://tinatrinh1012.github.io/), where I share a bit about myself, career, and passion.
 
-
+The [Zendeks Ticket Viewer CLI Project](https://github.com/tinatrinh1012/ZendeskCodingChallenge) was a coding challenge for an internship interview. It was my first time learning how to work with API and new Java libraries to help make HTTP requests and write Java unit tests. The project's allowed time was 1 week. Although it was only for a job interview, I think I've learned a lot from this project, especially time management and project planning.
 
 <!-- # :computer: My Projects
 
