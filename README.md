@@ -1,4 +1,10 @@
-# :computer: My Projects
+# :computer: My Portfolio
+
+Throughout my time at University of St. Thomas (2019-2023) as a Computer Science student, I've worked on a few different programming projects for classes and self-learning purposes. The 3 presented programming projects here are to showcase skills and knowledge that I've gained in web development and object-oriented programming. The first two projects, Personal Website and Ticket Viewer CLI App, are the ones that I worked on by myself. The third project, St.Paul Crime Full Stack Web App, is a group project from a class, to which I contributed.
+
+The [Personal Website Project](https://github.com/tinatrinh1012/tinatrinh1012.github.io) was a class project, where we learned to build and style static website using only basic HTML and CSS. The website is hosted on Github and is responsive to different screen sizes. I put in some effort to give the website a decent design and use it as my official personal website for career purposes. Check out the website at [tinatrinh1012.github.io](https://tinatrinh1012.github.io/), where I share a bit about myself, career, and passion.   
+
+<!-- # :computer: My Projects
 
 ## :one: Personal Website - Static Web Pages
 
@@ -18,4 +24,4 @@ This project was for a technical challenge round in the interview process for th
 
 Repository Link: https://github.com/AashishBharath/StPaulCrimeData & https://github.com/AashishBharath/StPaulCrimeVue
 
-This was a group project, also from CISC 375 class, where we build a full stack web app using Node.js, Express.js, and sqlite3 for the backend, and Vue.js for the frontend to display and interact with St. Paul crime data. The app features include retrieving and displaying crime data with filters, adding new incident, deleting incidents, and an interactive map of St. Paul crime incidents location. 
+This was a group project, also from CISC 375 class, where we build a full stack web app using Node.js, Express.js, and sqlite3 for the backend, and Vue.js for the frontend to display and interact with St. Paul crime data. The app features include retrieving and displaying crime data with filters, adding new incident, deleting incidents, and an interactive map of St. Paul crime incidents location.  -->
