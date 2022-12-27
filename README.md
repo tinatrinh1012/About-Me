@@ -1,4 +1,4 @@
-# :computer: My Portfolio
+# Hi there :wave: Welcome to my programming portfolio :computer:
 
 Throughout my time at University of St. Thomas (2019-2023) as a Computer Science student, I've worked on a few different programming projects for classes and self-learning purposes. The 3 presented programming projects here are to showcase skills and knowledge that I've gained in web development and object-oriented programming. The first two projects, Personal Website and Ticket Viewer CLI App, are the ones that I worked on by myself. The third project, St.Paul Crime Full Stack Web App, is a group project from a class, to which I contributed.
 
