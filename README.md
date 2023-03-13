@@ -27,5 +27,6 @@ This project was for a technical challenge round in the interview process for th
 ## :three: Full Stack Vue.js Node.js App 
 
 Repository Link: https://github.com/AashishBharath/StPaulCrimeData & https://github.com/AashishBharath/StPaulCrimeVue
+Demo Link: https://www.youtube.com/watch?v=0SnJWiJLPZ8
 
 This was a group project, also from CISC 375 class, where we build a full stack web app using Node.js, Express.js, and sqlite3 for the backend, and Vue.js for the frontend to display and interact with St. Paul crime data. The app features include retrieving and displaying crime data with filters, adding new incident, deleting incidents, and an interactive map of St. Paul crime incidents location.  -->
